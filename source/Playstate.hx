@@ -26,12 +26,12 @@ class PlayState extends FlxState
 		// todo, after some edits to WebmPlayer?
 		add(new FlxButton(100, buttonsY, "STOP", () ->
 		{
-	  	video.stop();
+	  	        video.stop();
 		}));
 
 		add(new FlxButton(190, buttonsY, "RESTART", () ->
 		{
-			video.restart();
+	        	video.restart();
 		}));
 	}
 
