@@ -77,6 +77,7 @@ class DiscordClient
 			state: state,
 			largeImageKey: 'icon',
 			largeImageText: "HaxeFlixel: Flixel-WEBM",
+			smallImageText: "Download At Bambitheone82112 Github!" // https://bambitheone82112/flx-webm
 			smallImageKey: smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
 			startTimestamp: Std.int(startTimestamp / 1000),
