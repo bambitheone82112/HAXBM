@@ -40,7 +40,7 @@ class DiscordClient
 			details: "Playing A Webm Video",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "HaxeFlixel: Flx-WEBM"
+			largeImageText: "HAXBM: Windows Media Player Replacement"
 		});
 	}
 
@@ -76,7 +76,7 @@ class DiscordClient
 			details: details,
 			state: state,
 			largeImageKey: 'icon',
-			largeImageText: "HaxeFlixel: Flixel-WEBM",
+			largeImageText: "HAXBM",
 			smallImageText: "Download At Bambitheone82112 Github!" // https://bambitheone82112/flx-webm
 			smallImageKey: smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
