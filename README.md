@@ -1,9 +1,4 @@
-# HAXBM
-[![GitHub issues](https://img.shields.io/github/issues/bambitheone82112/flx-webm)](https://github.com/bambitheone82112/flx-webm/issues)
-A Webm Handler That Plays WEBM
+hi guy's, bambitheone here, I am underaged + age fruading to be on here.
 
-Click [Here To Compile!](https://gamebanana.com/tuts/13935)
 
-# Special  Thanks
-- [Shadow Mario](https://github.com/shadowmario) for discord rich presence
-- [Jobf](https://github.com/jobf) for the code & project xml
+I am the most stupidest coder in the world, I make useless PR's.
