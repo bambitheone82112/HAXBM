@@ -1,8 +1,6 @@
 # HAXBM
 [![GitHub issues](https://img.shields.io/github/issues/bambitheone82112/flx-webm)](https://github.com/bambitheone82112/flx-webm/issues)
 A Webm Handler That Plays WEBM
-Vidya Killer
-Icon not provided
 
 Click [Here To Compile!](https://gamebanana.com/tuts/13935)
 
