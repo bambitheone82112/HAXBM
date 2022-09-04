@@ -1,4 +1,6 @@
-hi guy's, bambitheone here, I am underaged + age fruading to be on here.
+# HAXBM
 
+#### SYSTEM CLOSED DUE TO LOW CONTRIBUTOR
 
-I am the most stupidest coder in the world, I make useless PR's.
+- [Shadow Mario](https://github.com/shadowmario) - discord rpc 
+- [jobf](https://github.com/jobf)
